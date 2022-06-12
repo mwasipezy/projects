@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654985257 source:g:\projects\c++ projects\hey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1655072812 source:g:\projects\c projects\hey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
